@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carona</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="distancia">Distancia</string>
+    <string name="preco_litro">Preço Litro</string>
+    <string name="consumo_medio">Consumo médio</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="calcular">Calcular</string>
+</resources>
